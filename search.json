@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "quiescens-lct",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJun 10, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJun 7, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\n  \n\n\n\n\nSearching for a Master’s\n\n\n\n\n\n\n\napplication\n\n\n\n\nMy process for finding a Master’s degree\n\n\n\n\n\n\nJun 26, 2021\n\n\n\n\n\n\n  \n\n\n\n\nMy journey to starting a Master degree\n\n\n\n\n\n\n\napplication\n\n\n\n\nPreparing to apply\n\n\n\n\n\n\nJun 25, 2021\n\n\n\n\n\n\n  \n\n\n\n\nA little about me\n\n\n\n\n\n\n\ngeneral\n\n\n\n\nIntroducing myself\n\n\n\n\n\n\nJun 19, 2021\n\n\n\n\n\n\n  \n\n\n\n\nFastpages Notebook Blog Post\n\n\n\n\n\n\n\ngeneral\n\n\n\n\nA tutorial of fastpages for Jupyter notebooks.\n\n\n\n\n\n\nFeb 20, 2020\n\n\n\n\n\n\nNo matching items"
+    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJun 10, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJun 7, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\n  \n\n\n\n\nGeneral documents for applying for admission into a Master’s\n\n\n\n\n\n\n\napplication\n\n\n\n\nGetting paperword in order\n\n\n\n\n\n\nJul 19, 2021\n\n\n\n\n\n\n  \n\n\n\n\nWhat’s an Apostille?\n\n\n\n\n\n\n\ngeneral\n\n\n\n\nHere’s how I personally understand how Apostilles work.\n\n\n\n\n\n\nJul 2, 2021\n\n\n\n\n\n\n  \n\n\n\n\nSearching for a Master’s\n\n\n\n\n\n\n\napplication\n\n\n\n\nMy process for finding a Master’s degree\n\n\n\n\n\n\nJun 26, 2021\n\n\n\n\n\n\n  \n\n\n\n\nMy journey to starting a Master degree\n\n\n\n\n\n\n\napplication\n\n\n\n\nPreparing to apply\n\n\n\n\n\n\nJun 25, 2021\n\n\n\n\n\n\n  \n\n\n\n\nA little about me\n\n\n\n\n\n\n\ngeneral\n\n\n\n\nIntroducing myself\n\n\n\n\n\n\nJun 19, 2021\n\n\n\n\n\n\n  \n\n\n\n\nFastpages Notebook Blog Post\n\n\n\n\n\n\n\ngeneral\n\n\n\n\nA tutorial of fastpages for Jupyter notebooks.\n\n\n\n\n\n\nFeb 20, 2020\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/2021-06-26-searching-masters.html",
@@ -203,11 +203,53 @@
     "text": "After my education I had a general base/idea of what different areas of Mathematics do.\nBut I felt like doing more than just the pure math I had been taught.\nI felt like math should not be everything that I do, that I wanted to develop my other interests as well.\nThat meant I needed more training, so it was that I decided to do a Master’s degree: in order to combine what I interested me with something math-related, and why not?, maybe get a better pay-grade with that.\nBefore this I thought about doing a Master’s because “it’s what everyone here does”, but now I had good personal reasons for doing it.\nThus I started searching for Master’s."
   },
   {
+    "objectID": "posts/2021-07-02-apostille.html",
+    "href": "posts/2021-07-02-apostille.html",
+    "title": "What’s an Apostille?",
+    "section": "",
+    "text": "Here’s how I personally understand how Apostilles work.\n\n\nYou live in a country called Pachaland, whose State issues its own official documents (like birth certificates, home ownership registries, etc….).\nWithin Pachaland, its own official documents are recognized: You get, say, a birth certificate at the Pachaland Citizen Registry, take it to the Pachaland Ministry of Education, and they’ll accept it.\nThis is how countries usually work.\nBut what happens if you want to take your Pachaland documents to a foreign country, called Extrostan?\nTo the authorities of Extrostan, Pachaland documents are just pieces of paper with some ink.\nYet if the Extrostan authorities need some information about you that only Pachaland can give, how can they be sure you are presenting a real Pachaland document?\nTo solve this problem, a group of countries got together, and decided on the following:\n“Let us agree on a type of stamp we can all recognize, and let us attach this stamp to our own official documents!”\nThis is the origin story of the Apostille.\n\n\n\nimage.png"
+  },
+  {
+    "objectID": "posts/2021-07-02-apostille.html#the-motivation",
+    "href": "posts/2021-07-02-apostille.html#the-motivation",
+    "title": "What’s an Apostille?",
+    "section": "",
+    "text": "You live in a country called Pachaland, whose State issues its own official documents (like birth certificates, home ownership registries, etc….).\nWithin Pachaland, its own official documents are recognized: You get, say, a birth certificate at the Pachaland Citizen Registry, take it to the Pachaland Ministry of Education, and they’ll accept it.\nThis is how countries usually work.\nBut what happens if you want to take your Pachaland documents to a foreign country, called Extrostan?\nTo the authorities of Extrostan, Pachaland documents are just pieces of paper with some ink.\nYet if the Extrostan authorities need some information about you that only Pachaland can give, how can they be sure you are presenting a real Pachaland document?\nTo solve this problem, a group of countries got together, and decided on the following:\n“Let us agree on a type of stamp we can all recognize, and let us attach this stamp to our own official documents!”\nThis is the origin story of the Apostille.\n\n\n\nimage.png"
+  },
+  {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/2021-07-19-general-docs-master.html",
+    "href": "posts/2021-07-19-general-docs-master.html",
+    "title": "General documents for applying for admission into a Master’s",
+    "section": "",
+    "text": "No matter which Master’s one has searched for, there are some documents that most Master’s programs require."
+  },
+  {
+    "objectID": "posts/2021-07-19-general-docs-master.html#gregmat",
+    "href": "posts/2021-07-19-general-docs-master.html#gregmat",
+    "title": "General documents for applying for admission into a Master’s",
+    "section": "GRE/GMAT",
+    "text": "GRE/GMAT\nI have already explained that to me the GRE and the GMAT seem to be more a hassle to impede large numbers of students from applying, and that’s why I chose to avoid Master’s requiring either of them. However, it’s still a kind of common request."
+  },
+  {
+    "objectID": "posts/2021-07-19-general-docs-master.html#diplomas",
+    "href": "posts/2021-07-19-general-docs-master.html#diplomas",
+    "title": "General documents for applying for admission into a Master’s",
+    "section": "Diplomas",
+    "text": "Diplomas\nDocuments indicating a good overall ranking in your graduation batch, or certificates of good performance in championships, competitions, bootcamps, etc, that make you look good could help your application, if they seem relevant to the election committee. They’re not necessary, so send them only if you think they could help.\nSome applications also ask for a High School Diploma, and in general, once accepted, European universities request them as well."
+  },
+  {
+    "objectID": "posts/2021-07-19-general-docs-master.html#criminal-records",
+    "href": "posts/2021-07-19-general-docs-master.html#criminal-records",
+    "title": "General documents for applying for admission into a Master’s",
+    "section": "Criminal records",
+    "text": "Criminal records\nIf you need to apply for an internship at some point, they will probably ask for a Criminal record. Normally, you can get them at your Embassy abroad, but it is normally easier to get them in your own country, and have them Apostilled!\n\nGood luck!"
   },
   {
     "objectID": "posts/2021-06-19-about-me.html",
