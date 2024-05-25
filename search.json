@@ -1348,7 +1348,7 @@
     "href": "posts/2021-11-19-eduroam.html#option-2-manual-configuration",
     "title": "Studies: Eduroam WiFi Network",
     "section": "Option 2: Manual configuration",
-    "text": "Option 2: Manual configuration\nThe above script does not work on some Linux distributions (like Mint).\n\nManual configuration is the last resort.\n\nYou should follow the instruction in this documentation website from the University of Lorraine, where you will have to download a CA (Certification Authorities) certificate file and manually input the parameters for connecting to the network.\nIn case that website becomes obsolete, I made a backup: - setup instructions - CA file\nAgain, you will eventually be asked your username and password. For your username, use your full email, i.e., user@server."
+    "text": "Option 2: Manual configuration\nThe above script does not work on some Linux distributions (like Mint).\n\nManual configuration is the last resort.\n\nYou should follow the instruction in this documentation website from the University of Lorraine, where you will have to download a CA (Certification Authorities) certificate file and manually input the parameters for connecting to the network.\nIn case that website becomes obsolete, I made a backup:\n\nSetup instructions\nCertificate CA File\n\nAgain, you will eventually be asked your username and password. For your username, use your full email, i.e., user@server."
   },
   {
     "objectID": "posts/2022-01-10-spanish_visa.html",
